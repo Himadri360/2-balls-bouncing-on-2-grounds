@@ -1,1 +1,2 @@
-# 2-balls-bouncing-on-2-grounds
+# staticSquare
+A static square made using Matter.js physics engine
